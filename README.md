@@ -37,7 +37,8 @@ Crypto-Currency App is an Android application that provides users with comprehen
 
 
 ## Video Demo
-https://github.com/AdityaKumarGt/Crypto_Currency_App-CleanArchitecture/assets/121026525/1d8c19e2-caf5-423b-90af-a9fdd775f864
+https://github.com/AdityaKumarGt/CryptoCurrency-App-CleanArchitecture/assets/121026525/55d41a2c-c77b-498f-9102-e976d90e4248
+
 
 
 
